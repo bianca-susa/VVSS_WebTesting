@@ -1,0 +1,5 @@
+server,user,pass,message
+"localhost","vvta1","","Please fill out Username and Password."
+"localhost","","vvta2","Please fill out Username and Password."
+"localhost","testlink","vvta2","Wrong password."
+"localhost","testlinkdwghb","vvta2","User does not exist."
