@@ -230,7 +230,6 @@
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>5.8.0</version>
-            <!--  or latest  -->
         </dependency>
     </dependencies>
     <build>
